@@ -1,0 +1,63 @@
+********************
+
+CHAPTER: 23
+
+********************
+
+## HTML - The Head Element
+
+The HTML <head> element is a container for the following elements: <title>, <style>, <meta>, <link>, <script>, and <base>.
+
+Example:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="author" content="John Doe">
+    <meta http-equiv="refresh" content="30">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Website</title>
+
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body>
+
+    The content of the document......
+
+</body>
+
+</html>
+
+
+Example 02:
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="keywords" content="HTML, CSS, JavaScript">
+    <meta name="description" content="Free Web tutorials">
+    <meta name="author" content="John Doe">
+    <meta http-equiv="refresh" content="30">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Website</title>
+    
+    <link rel="stylesheet" href="mystyle.css">
+</head>
+
+<body>
+
+    <p><a href="http://youtube.com">Youtube</a> - Notice that the link opens in a new window, even if it has no target="_blank" attribute. This is because the target attribute of the base element is set to "_blank".</p>
+
+</body>
+
+</html>
+
+
+
