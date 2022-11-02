@@ -1,0 +1,73 @@
+********************
+
+CHAPTER: 06
+
+********************
+
+## Html Attribute
+
+The href Attribute:
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+The src Attribute:
+
+<img src="img_girl.jpg">
+
+The width and height Attributes:
+
+<img src="img_girl.jpg" width="500" height="500">
+
+The alt Attribute:
+
+<img src="img_girl.jpg" alt="Girl with a jacket">
+
+
+The style Attribute:
+
+<p style="color:red;">This is a red paragraph.</p>
+
+The lang Attribute:
+
+<!DOCTYPE html>
+<html lang="en">
+<body>
+...
+</body>
+</html>
+
+
+The title Attribute:
+
+<p title="I'm a tooltip">This is a paragraph.</p>
+
+
+Single or Double Quotes?
+
+<p title='John "ShotGun" Nelson'>
+
+<p title="John 'ShotGun' Nelson">
+
+
+Chapter Summary:
+=================
+
+* All HTML elements can have attributes
+
+* The href attribute of <a> specifies the URL of the page the link goes to
+
+* The src attribute of <img> specifies the path to the image to be displayed
+
+* The width and height attributes of <img> provide size information for images
+
+* The alt attribute of <img> provides an alternate text for an image
+
+* The style attribute is used to add styles to an element, such as color, font, size, and more
+
+* The lang attribute of the <html> tag declares the language of the Web page
+
+* The title attribute defines some extra information about an element
+
+
+
+
