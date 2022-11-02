@@ -1,0 +1,30 @@
+********************
+
+CHAPTER: 12
+
+********************
+
+
+## Comments
+
+HTML comments are not displayed in the browser, but they can help document your HTML source code.
+
+<!-- Write your comments here -->
+
+Notice that there is an exclamation point (!) in the start tag, but not in the end tag.
+
+
+* Hide content
+
+<!-- <p>This is another paragraph </p> -->
+
+* Hide more content
+
+<!--
+<p>Look at this cool image:</p>
+<img border="0" src="pic_trulli.jpg" alt="Trulli">
+-->
+
+* Hide inline content
+
+<p>This <!-- great text --> is a paragraph.</p>
