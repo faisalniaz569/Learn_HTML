@@ -1,0 +1,50 @@
+********************
+
+CHAPTER: 34
+
+********************
+
+## HTML Video
+
+Example:
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
+
+
+* HTML <video> Autoplay
+
+To start a video automatically, use the autoplay attribute:
+
+Example:
+
+<video width="320" height="240" autoplay>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+-> No sound
+
+Example:
+
+<video width="320" height="240" autoplay muted>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+Your browser does not support the video tag.
+</video>
+
+
+** HTML Video - Media Types
+
+File Format	            Media Type
+
+MP4	                    video/mp4
+WebM	                video/webm
+Ogg	                    video/ogg
+
+
+
