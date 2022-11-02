@@ -1,0 +1,80 @@
+********************
+
+CHAPTER: 10
+
+********************
+
+
+## Text Format
+
+HTML Formatting Elements:
+
+Formatting elements were designed to display special types of text:
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+Example 1:
+
+<b>This text is bold</b>
+
+Example 2:
+
+<strong>This text is important!</strong>
+
+Example 3:
+
+<i>This text is italic</i>
+
+Example 4:
+
+<em>This text is emphasized</em>
+
+Example 5:
+
+<p>Do not forget to buy <mark>milk</mark> today.</p>
+
+
+Example 6:
+
+<small>This is some smaller text.</small>
+
+Example 7:
+
+<p>My favorite color is <del>blue</del> red.</p>
+
+
+Example 8:
+
+<p>My favorite color is <del>blue</del> <ins>red</ins>.</p>
+
+
+Example 9:
+
+<p>This is <sub>subscripted</sub> text.</p>
+
+
+Example 10:
+
+<p>This is <sup>superscripted</sup> text.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
