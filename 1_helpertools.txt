@@ -1,0 +1,88 @@
+********************
+
+CHAPTER: 01
+
+********************
+
+## Helper Tools for Webdesign
+
+Helper Tools: =>
+
+1. Texteditor,
+
+Brackets => https://brackets.io/
+
+Atom => 
+https://atom.en.softonic.com/download
+
+2. Browser,
+
+Chrome:
+https://www.google.com/chrome/?brand=JJTC&gclid=EAIaIQobChMIyMe-39yB-wIV_5pmAh0wPAkKEAAYASAAEgJZufD_BwE&gclsrc=aw.ds
+
+3. pixie,
+
+http://www.nattyware.com/pixie.php
+
+4. Lightshot,
+
+https://app.prntscr.com/en/download.html
+
+5. Screenshooter,
+
+https://www.screen-shooter.com/
+
+
+*************************
+
+Some information links
+
+*************************
+
+1) video download: 
+https://freemp4downloader.com/
+
+2) Video Compressor:
+
+video compressor allows you to reduce videos file size online without losing quality.
+
+https://www.media.io/video-compressor.html
+
+3) jQuery plugin:
+
+https://www.bestjquery.com/example/jquery-plugins/
+
+https://www.jqueryscript.net/
+
+4) color palatte:
+
+https://coolors.co/
+
+https://www.canva.com/learn/100-color-combinations/
+
+https://color.adobe.com/create/color-wheel
+
+https://colors.muz.li/
+
+https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
