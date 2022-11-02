@@ -1,0 +1,82 @@
+********************
+
+CHAPTER: 33
+
+********************
+
+## HTML Media
+
+What is Multimedia?
+
+=> Multimedia comes in many different formats. It can be almost anything you can hear or see, like images, music, sound, videos, records, films, animations, and more.
+
+Web pages often contain multimedia elements of different types and formats.
+
+* Multimedia Formats
+
+Multimedia elements (like audio or video) are stored in media files.
+
+Multimedia files have formats and different extensions like: .wav, .mp3, .mp4, .mpg, .wmv, and .avi.
+
+* Common video formats
+
+There are many video formats out there.
+
+The MP4, WebM, and Ogg formats are supported by HTML.
+
+The MP4 format is recommended by YouTube.
+
+Format	             File	
+MPEG	             .mpg .mpeg	MPEG. 
+
+AVI	                 .avi	
+
+WMV	                 .wmv	
+
+QuickTime	         .mov	
+
+RealVideo	         .rm .ram	
+
+Flash	             .swf .flv	
+
+Ogg	                 .ogg	
+
+WebM	             .webm	
+
+MPEG-4
+or MP4	             .mp4	
+
+
+Note: Only MP4, WebM, and Ogg video are supported by the HTML standard.
+
+
+* Common Audio Formats
+
+Format	         File	
+
+MIDI	         .mid .midi	
+
+RealAudio	     .rm .ram	
+
+WMA	             .wma	
+
+AAC	             .aac	
+
+WAV	             .wav	
+
+Ogg	             .ogg	
+
+MP3	             .mp3	
+
+MP4	             .mp4	
+
+Note: Only MP3, WAV, and Ogg audio are supported by the HTML standard.
+
+
+
+
+
+
+
+
+
