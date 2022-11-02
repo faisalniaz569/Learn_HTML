@@ -1,0 +1,68 @@
+********************
+
+CHAPTER: 11
+
+********************
+
+
+## Quotation and Citation
+
+
+In this chapter we will go through the <blockquote>,<q>, <abbr>, <address>, <cite>, and <bdo> HTML elements.
+
+Example 1:
+
+<p>Here is a quote from WWF's website:</p>
+
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 50 years, WWF has been protecting the future of nature.
+The world's leading conservation organization,
+WWF works in 100 countries and is supported by
+1.2 million members in the United States and
+close to 5 million globally.
+</blockquote>
+
+Example 2:
+
+<p>WWF's goal is to: <q>Build a future where people live in harmony with nature.</q></p>
+
+Example 3:
+
+<p>The <abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+
+Tip: Use the global title attribute to show the description for the abbreviation/acronym when you mouse over the element. 
+
+Example 3:
+
+<address>
+Written by John Doe.<br>
+Visit us at:<br>
+Example.com<br>
+Box 564, Disneyland<br>
+USA
+</address> 
+
+Note: The HTML <address> tag defines the contact information for the author/owner of a document or an article.
+
+
+Example 4:
+
+<p><cite>The Scream</cite> by Edvard Munch. Painted in 1893.</p>
+
+Note: A person's name is not the title of a work.
+
+The text in the <cite> element usually renders in italic.
+
+Example 5:
+
+<bdo dir="rtl">This text will be written from right to left</bdo>
+
+
+
+
+
+
+
+
+
+
