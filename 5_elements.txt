@@ -1,0 +1,27 @@
+********************
+
+CHAPTER: 05
+
+********************
+
+
+## Html elements
+
+<tagname>Content goes here...</tagname>
+
+Nested Element:
+
+<html>, <body>, <h1> and <p>
+
+Never Skip the End Tag:
+
+<p>This is a paragraph
+<p>This is a paragraph
+
+Empty HTML Elements:
+
+<br />, <img />, <hr />
+
+HTML is Not Case Sensitive:
+
+Example: <P> is not allowed.
