@@ -1,0 +1,43 @@
+********************
+
+CHAPTER: 35
+
+********************
+
+## HTML Audio
+
+
+Example:
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+</audio>
+
+or, autoplay
+
+<audio controls autoplay>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+or, muted
+
+<audio controls autoplay muted>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+* HTML Audio - Media Types
+
+File Format	            Media Type
+
+MP3	                    audio/mpeg
+OGG	                    audio/ogg
+WAV	                    audio/wav
+
+
+
