@@ -1,0 +1,67 @@
+********************
+
+CHAPTER: 14
+
+********************
+
+## Html image
+
+img is empty element tag. It does not have a closing tag.
+
+The <img> tag has some required attributes:
+
+src - Specifies the path to the image
+alt - Specifies an alternate text for the image
+style - specify the width and height of an image.
+Alternatively, you can use the width and height attributes.
+
+some types of images are used on the website.
+example:
+
+jpg, jpeg, jfif, png, gif, svg, ico
+
+
+* Images in Another Folder
+* Images on Another Server/Website
+* Animated Images
+* Image as a Link
+* Image Floating
+
+link image:
+
+Example:
+
+<a href="https://www.w3schools.com/">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+
+
+image float:
+
+Example:
+
+<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+The image will float to the right of the text.</p>
+
+
+# Background image
+
+Background Image on a Page.
+
+body {
+  background-image: url('img_girl.jpg');
+}
+
+Background Image on a HTML element.
+
+<p style="background-image: url('img_girl.jpg');">
+
+
+
+
+
+
+
+
+
+
