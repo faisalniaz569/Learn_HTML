@@ -1,0 +1,90 @@
+********************
+
+CHAPTER: 30
+
+********************
+
+## Form Elements
+
+This chapter describes all the different HTML form elements.
+
+The HTML <form> element can contain one or more of the following form elements:
+
+<input>
+<label>
+<select>
+<textarea>
+<button>
+<fieldset>
+<legend>
+<datalist>
+<output>
+<option>
+<optgroup>
+
+
+Example 01: (input and label)
+
+<form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+Example 02: (select)
+
+<label for="cars">Choose a car:</label>
+<select id="cars" name="cars">
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="fiat">Fiat</option>
+  <option value="audi">Audi</option>
+</select>
+
+Example 03: (textarea)
+
+<textarea name="message" rows="10" cols="30">
+The cat was playing in the garden.
+</textarea>
+
+or,
+
+<textarea name="message" style="width:200px; height:400px;">
+The cat was playing in the garden.
+</textarea>
+
+Example 04: (button)
+
+<button type="button" onclick="alert('Hello World!')">Click Me!</button>
+
+Example 05: (The <fieldset> and <legend> Elements)
+
+<form action="/action_page.php">
+  <fieldset>
+    <legend>Personalia:</legend>
+    <label for="fname">First name:</label><br>
+    <input type="text" id="fname" name="fname" value="John"><br>
+    <label for="lname">Last name:</label><br>
+    <input type="text" id="lname" name="lname" value="Doe"><br><br>
+    <input type="submit" value="Submit">
+  </fieldset>
+</form>
+
+Example 06: (Datalist)
+
+<form action="/action_page.php">
+  <input list="browsers">
+  <datalist id="browsers">
+    <option value="Internet Explorer">
+    <option value="Firefox">
+    <option value="Chrome">
+    <option value="Opera">
+    <option value="Safari">
+  </datalist>
+</form>
+
+
+
+
+
+
