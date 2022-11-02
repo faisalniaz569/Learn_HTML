@@ -1,0 +1,29 @@
+********************
+
+CHAPTER: 02
+
+********************
+
+## Editor:
+
+I recommend text editor Brackets or Atom.
+
+All editor has Extension.
+
+Brackets Extension:
+
+1. Emmets,
+2. Beautify, (command: ctrl + shift + L)
+3. Autosave every edit! ,
+4. Themes (view -> themes -> Brackets Light/ Brackets Dark),
+5. HTML Skeleton,
+6. Super Right Click,
+7. Brackets Tree Icons,
+8. Bootstrap Starter Template,
+9. ACB Bootstrap Snippets,
+10. HTML comment button,
+11. Autoprefixer,
+12. ExportPDF,
+13. QuickFormTool,
+14. colorHints,
+15. Special Html Characters.
