@@ -1,0 +1,241 @@
+## Global Attributes
+
+HTML Global Attributes
+The global attributes are attributes that can be used with all HTML elements.
+
+Attribute	
+
+accesskey	
+class	
+contenteditable	
+data-*	
+dir	
+draggable	
+hidden	
+id		
+spellcheck	
+style	
+tabindex	
+title		
+
+
+* Accesskey
+
+Example:
+
+<a href="https://www.w3schools.com/html/" accesskey="h">HTML tutorial</a><br>
+<a href="https://www.w3schools.com/css/" accesskey="c">CSS tutorial</a>
+
+* class
+
+Example:
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1.intro {
+  color: blue;
+}
+
+p.important {
+  color: green;
+}
+</style>
+</head>
+<body>
+
+<h1 class="intro">Header 1</h1>
+<p>A paragraph.</p>
+<p class="important">Note that this is an important paragraph. :)</p>
+
+</body>
+</html>
+
+
+* contenteditable
+
+Example:
+
+<p contenteditable="true">This is a paragraph. It is editable. Try to change this text.</p>
+
+* data-*
+
+Example:
+
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function showDetails(animal) {
+  var animalType = animal.getAttribute("data-animal-type");
+  alert("The " + animal.innerHTML + " is a " + animalType + ".");
+}
+</script>
+</head>
+<body>
+
+<h1>Species</h1>
+<p>Click on a species to see what type it is:</p>
+
+<ul>
+  <li onclick="showDetails(this)" id="owl" data-animal-type="bird">Owl</li>
+  <li onclick="showDetails(this)" id="salmon" data-animal-type="fish">Salmon</li>  
+  <li onclick="showDetails(this)" id="tarantula" data-animal-type="spider">Tarantula</li>  
+</ul>
+
+</body>
+</html>
+
+* dir
+
+<element dir="ltr|rtl|auto">
+
+Example:
+
+<p dir="rtl">Write this text right-to-left!</p>
+
+* draggable 
+
+Example:
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+#div1 {
+  width: 350px;
+  height: 70px;
+  padding: 10px;
+  border: 1px solid #aaaaaa;
+}
+</style>
+<script>
+function allowDrop(ev) {
+  ev.preventDefault();
+}
+
+function drag(ev) {
+  ev.dataTransfer.setData("Text", ev.target.id);
+}
+
+function drop(ev) {
+  var data = ev.dataTransfer.getData("Text");
+  ev.target.appendChild(document.getElementById(data));
+  ev.preventDefault();
+}
+</script>
+</head>
+<body>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<p id="drag1" draggable="true" ondragstart="drag(event)">This is a draggable paragraph. Drag this element into the rectangle.</p>
+
+</body>
+</html>
+
+
+* hidden
+
+Example:
+
+<p hidden>This paragraph should be hidden.</p>
+<p>This is a visible paragraph.</p>
+
+* id
+
+Exaample:
+
+<html>
+<body>
+
+<h1 id="myHeader">Hello World!</h1>
+<button onclick="displayResult()">Change text</button>
+
+<script>
+function displayResult() {
+  document.getElementById("myHeader").innerHTML = "Have a nice day!";
+}
+</script>
+
+</body>
+</html>
+
+Example 2:
+
+<!DOCTYPE html>
+<html>
+<body>
+<h2><a id="top">There is a link at the bottom of the page!</a></h2>
+<p>In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.</p>
+<p>"Whenever you feel like criticizing any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."</p>
+<p>He didn't say any more, but we've always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I'm inclined to reserve all judgments, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought-frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgments is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.</p>
+<p>And, after boasting this way of my tolerance, I come to the admission that it has a limit. Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don't care what it's founded on. When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart. Only Gatsby, the man who gives his name to this book, was exempt from my reaction-Gatsby, who represented everything for which I have an unaffected scorn. If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away. This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the "creative temperament"-it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. No-Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.</p>
+
+<a href="#top">Go to top</a>
+</body>
+</html>
+
+Example 3:
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<style>
+#myHeader {
+  color: red;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1 id="myHeader">W3Schools is the best!</h1>
+
+</body>
+</html>
+
+* spellcheck
+
+Example:
+
+<p contenteditable="true" spellcheck="true">This is a praggagraph. It is editable. Try to change the text.</p>
+
+First name: <input type="text" name="fname" spellcheck="true">
+
+* style
+
+Example:
+
+<h1 style="color:blue;text-align:center;">This is a header</h1>
+<p style="color:green;">This is a paragraph.</p>
+
+* tabindex
+
+Example:
+
+<div tabindex="1">W3Schools</div><br>
+<div tabindex="3">Google</div><br>
+<div tabindex="2">Microsoft</div>
+
+<script>
+// At start, set focus on the first div
+document.getElementsByTagName('div')[0].focus();
+</script>
+
+<p tabindex="4"><b>Note:</b> Try navigating the elements by using the "Tab" button on your keyboard.</p>
+
+* title
+
+Example:
+
+<p><abbr title="World Health Organization">WHO</abbr> was founded in 1948.</p>
+<p title="Free Web tutorials">W3Schools.com</p>
+
+
+
+
+
+
+
