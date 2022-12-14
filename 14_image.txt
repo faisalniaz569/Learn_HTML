@@ -56,6 +56,20 @@ Background Image on a HTML element.
 
 <p style="background-image: url('img_girl.jpg');">
 
+Image collection websites:
+
+** https://unsplash.com/
+** https://burst.shopify.com/
+** https://www.pexels.com/
+** https://pixabay.com/
+** https://www.freeimages.com/
+** https://kaboompics.com/
+** https://stocksnap.io/
+** https://www.canva.com/photos/free/
+** https://www.lifeofpix.com/
+** https://gratisography.com/
+** https://www.gettyimages.com/resources/embed
+** https://depositphotos.com/free-images.html
 
 
 
