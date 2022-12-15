@@ -71,6 +71,27 @@ Image collection websites:
 ** https://www.gettyimages.com/resources/embed
 ** https://depositphotos.com/free-images.html
 
+Image format fulldescription:
+
+JPG/JPEG = Joint Photographic Experts Group,
+JFIF     = JPEG File Interchange Format,
+PNG      = Portable Network Graphics,
+APNG     = Animated Portable Network Graphics, 
+GIF      = Graphics Interchange Format,
+ICO      = Initial Coin Offering or Icon,
+SVG      = Scalable Vector Graphics,
+
+APNG	Animated Portable Network Graphics	.apng
+GIF	  Graphics Interchange Format	.gif
+ICO	  Microsoft Icon	.ico, .cur
+JPEG	Joint Photographic Expert Group image	.jpg, .jpeg, .jfif, .pjpeg, .pjp
+PNG	  Portable Network Graphics	.png
+SVG	  Scalable Vector Graphics	.svg
+
+
+
+
+
 
 
 
