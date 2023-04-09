@@ -28,6 +28,59 @@ Brackets Extension:
 14. colorHints,
 15. Special Html Characters.
 
+Atom:
+
+Ctrl + , (settings)
+
+Install packages - 
+
+1. Atom-beautify,
+2. atom-live-server,
+3. autosave-onchange,
+4. Emmet,
+5. Color-picker,
+6. file-icons-types,
+7. pigments,
+8. project-icons
+
+
+
+VS code rules ->
+
+# Install and setup,
+# Command Palette, Settings, Extensions, Keyboard shortcuts,
+# Theme color change and theme customization,
+# file icon change (Material icon theme),
+# Minimal screen (minimap), statusbar, sidebar, activity bar, panel hide and show, menubar. (view option),
+# line height, font-size, cursor edit, search. (Settings),
+# Master explorer -> ctrl+p, collapse folder (Ctrl+C, Ctrl+F), reopen (Ctrl+Shift+T).
+# Breadcumbs,
+# Tab Mastery,
+# Select code with keyboard,
+# Go to line (Keyboard shortcuts -> CTRL+G) and code folding. If you don't remember where the line is, press ctrl + U
+# Multi cursor (CTRL + D) (ALTR + backspace), right/left/up/down (esc),
+# Terminal,
+# Fira code font,
+
+settings.json ->
+"editor.fontFamily": "'fira Code', Consolas, 'Courier New', monospace",
+"editor.fontLigatures": true
+
+# hasklig font,
+# Split code,
+# Html & Emmet's
+# CSS & Bootstrap
+# Emoji Sense (Ctrl+ i),
+# @builtin,
+# CDN link (cdnjs),
+# Javascript code snippets
+# settings.json -> 
+
+"workbench.colorCustomizations": {
+    "editorCursor.foreground": "#a6ff00"
+ },
+
+
 VS Code extension:
 
 1. Emmets,
