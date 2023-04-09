@@ -6,7 +6,7 @@ CHAPTER: 02
 
 ## Editor:
 
-I recommend text editor Brackets or Atom.
+I recommend text editor Brackets, Atom or VS Code.
 
 All editor has Extension.
 
@@ -27,3 +27,20 @@ Brackets Extension:
 13. QuickFormTool,
 14. colorHints,
 15. Special Html Characters.
+
+VS Code extension:
+
+1. Emmets,
+2. Auto save,
+3. Auto rename tag,
+4. Color Highlight,
+5. Highlight matching tag,
+6. Image preview,
+7. Prettier-Code formatter
+
+
+
+
+
+
+
