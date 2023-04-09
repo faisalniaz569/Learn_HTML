@@ -36,7 +36,7 @@ VS Code extension:
 4. Color Highlight,
 5. Highlight matching tag,
 6. Image preview,
-7. Prettier-Code formatter
+7. Prettier-Code formatter.
 
 
 
