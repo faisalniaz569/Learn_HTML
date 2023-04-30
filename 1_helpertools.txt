@@ -15,6 +15,9 @@ Brackets => https://brackets.io/
 Atom => 
 https://atom.en.softonic.com/download
 
+VS code =>
+https://code.visualstudio.com/
+
 2. Browser,
 
 Internet Explorer, Microsoft Edge, Opera Browser, Firfox, Chrome
