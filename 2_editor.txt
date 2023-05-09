@@ -15,7 +15,7 @@ Brackets Extension:
 1. Emmets,
 2. Beautify, (command: ctrl + shift + L)
 3. Autosave every edit! ,
-4. Themes (view -> themes -> Brackets Light/ Brackets Dark),
+4. Themes (view -> themes -> Brackets Light/ Brackets Dark/ New Moon/ new sun),
 5. HTML Skeleton,
 6. Super Right Click,
 7. Brackets Tree Icons,
