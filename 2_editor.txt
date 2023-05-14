@@ -12,21 +12,23 @@ All editor has Extension.
 
 Brackets Extension:
 
-1. Emmets,
-2. Beautify, (command: ctrl + shift + L)
-3. Autosave every edit! ,
-4. Themes (view -> themes -> Brackets Light/ Brackets Dark/ New Moon/ new sun),
-5. HTML Skeleton,
-6. Super Right Click,
-7. Brackets Tree Icons,
-8. Bootstrap Starter Template,
-9. ACB Bootstrap Snippets,
-10. HTML comment button,
-11. Autoprefixer,
-12. ExportPDF,
-13. QuickFormTool,
-14. colorHints,
-15. Special Html Characters.
+1. Themes (view -> themes -> Brackets Light/ Brackets Dark/ New Moon/ new sun),(Font size)
+2. HTML Skeleton,
+3. Beautify (command: ctrl + shift + L),
+4. Emmets,
+5. Brackets Tree Icons,
+6. HTML comment button,
+7. C style comment button,
+8. Autoprefixer,
+9. Brackets Snippets (by edc),
+10. CSSFier,
+11. QuickFormTool
+12. Autosave every edit!,
+13. Html Special character (command: Alt + C)
+14. ColorHints
+
+** Bootstrap starter template,
+** ACB bootstrap snippets
 
 Atom:
 
