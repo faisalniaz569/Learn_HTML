@@ -25,7 +25,8 @@ Brackets Extension:
 11. QuickFormTool
 12. Autosave every edit!,
 13. Html Special character (command: Alt + C)
-14. ColorHints
+14. ColorHints,
+15. brackets-eslint
 
 ** Bootstrap starter template,
 ** ACB bootstrap snippets
