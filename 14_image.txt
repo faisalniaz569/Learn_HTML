@@ -20,6 +20,21 @@ example:
 
 jpg, jpeg, jfif, png, gif, svg, ico, psd
 
+Photo Resolution:
+=================
+HD: 1280 * 720
+Full HD: 1920 * 1080
+Quad HD: 2560 * 1440
+Ultra HD: 3840 * 2160
+
+Photo MB size:
+==============
+500 KB (Killo byte)
+5 MB (Mega Byte)
+1 GB (Giga Byte)
+
+
+
 
 * Images in Another Folder
 * Images on Another Server/Website
