@@ -18,7 +18,7 @@ Alternatively, you can use the width and height attributes.
 some types of images are used on the website.
 example:
 
-jpg, jpeg, jfif, png, gif, svg, ico
+jpg, jpeg, jfif, png, gif, svg, ico, psd
 
 
 * Images in Another Folder
