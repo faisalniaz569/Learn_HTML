@@ -24,7 +24,9 @@ jpg, jpeg, jfif, png, gif, svg, ico, psd
 The most common types of vector file are AI (Adobe Illustrator), EPS (Encapsulated PostScript), 
 PDF (Portable Document Format), and SVG (Scalable Vector Graphics).
 
-Illustration vector image
+Illustration vector image.
+
+
 
 Photo Resolution:
 =================
